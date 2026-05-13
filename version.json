@@ -1,2 +1,3 @@
-version = {}
-version["elyx_whitelist"] = '2.2.0'
+{
+    "elyx_whitelist": "2.3.0"
+}
